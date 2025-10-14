@@ -2,7 +2,11 @@
 Creating a new branch is quick and simple.
 git --no-ff (not fast forward)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 git is a free software.
+=======
+git stash?
+>>>>>>> Stashed changes
 =======
 git stash?
 >>>>>>> Stashed changes
